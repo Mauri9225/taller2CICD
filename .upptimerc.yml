@@ -5,6 +5,8 @@ repo: taller2CICD # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
+  - name: youtube
+    url: https://www.youtube.com
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
